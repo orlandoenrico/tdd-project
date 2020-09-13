@@ -1,0 +1,6 @@
+Iniciamos pensando no teste funcional que valida uma das funções do que será desenvolvido.
+Caso ele passe e não seja necessária uma refatoração podemos escrever testes funcionais para outras features.
+Caso ele passe e seja necessária refatoração ou ainda não passe devemos trabalhar com unidades mínimas do código.
+Portanto, devemos focar em testes unitários. 
+De forma análoga, caso um teste unitário não passe ou passe e necessite de refatoração escrevemos um código mínimo e executamos o teste.
+Caso passe e não seja necessária refatoração podemos partir então para e escrita de novos testes.
